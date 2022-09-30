@@ -17,7 +17,10 @@ containers.forEach(container => {
         const draggable = document.querySelector('.dragging')
         if (afterElement == null) {
         container.appendChild(draggable)
+        } else {
+            container.insertBefore(draggable, afterElement)
         }
+       
     })
 })
 
