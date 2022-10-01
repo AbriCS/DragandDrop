@@ -3,19 +3,26 @@
 .overcontainer{
     width: 500px;
     border: 1px solid red;
-    overflow: hidden;   
+    overflow: hidden; 
+   
+    
+
 }
 
 #choice{
-    width: 300px;
+    width: 45%;
     float:left;
     border:1px solid yellow;
+    margin: 2px;
     
 }
 
 #chosen{
+    width: 45%;
+    float:right;
     border:1px solid blue;
     overflow: hidden;
+    margin: 2px;
 }
 
 .draggable {
