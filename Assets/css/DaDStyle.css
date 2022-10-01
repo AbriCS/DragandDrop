@@ -1,20 +1,21 @@
-
+body {
+    margin: 2rem;
+}
 
 .overcontainer{
-    width: 500px;
+    width: 100vw;
     border: 1px solid red;
     overflow: hidden; 
-   
     
-
 }
 
 #choice{
     width: 45%;
     float:left;
     border:1px solid yellow;
-    margin: 2px;
-    
+    margin: 2px;  
+    background-color: black;
+    padding: .2rem;  
 }
 
 #chosen{
@@ -23,6 +24,8 @@
     border:1px solid blue;
     overflow: hidden;
     margin: 2px;
+    background-color: rgb(211, 245, 234);
+    padding: .2rem;
 }
 
 .draggable {
@@ -38,5 +41,9 @@
 
 .draggable:hover {
     background-color: blueviolet;
+}
+
+#chosen .draggable{
+    background-color: gold;
 }
 
