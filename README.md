@@ -3,10 +3,7 @@
 ### Table of Contents
 * [Description](#description)<br>
 * [Moving Tiles](#📖-how-to-use)
-<br>
-                1. [Moving Tiles](#moving-tiles-in-the-drag-and-drop-app)
-                <br>
-                2. [How this app might be used](#how-this-app-might-be-used)
+<br> 1. [Moving Tiles](#moving-tiles-in-the-drag-and-drop-app)<br> 2. [How this app might be used](#how-this-app-might-be-used)
                 
 <br>
 
