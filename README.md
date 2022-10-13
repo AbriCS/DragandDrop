@@ -26,19 +26,27 @@
 ### Moving tiles in the Drag and Drop app:
 
 ```
-- Click and hold the Tile which has the information you wish to move.
--Then move the item to the position in the list you would like it to be placed.
+- Click and hold the Tile which has the information you wish
+ to move.
+- Then move the item to the position in the list you would
+ like it to be placed.
 - You can also move the tile across to the other list. 
-- You will note that when you over an item it turns purple and when you let go it returns to a white tile.
-- When you move the tile across to the other list it takes on the colour of the other tiles in the list, which in this case is yellow.
+- You will note that when you over an item it turns purple
+ and when you let go it returns to a white tile.
+- When you move the tile across to the other list it takes
+ on the colour of the other tiles in the list, which in 
+ this case is yellow.
 ```
 
 ### How this app might be used.
 
 ```
 - To create a sortable shopping list
-- Create a game where the player sorts the answers in order of highest to lowest, biggest to smallest, oldest to youngest etc
-- To select items and place them on a list and with a little javascript adds up the price of the items selected. 
+- Create a game where the player sorts the answers in order
+ of highest to lowest, biggest to smallest, oldest to youngest etc
+- To select items and place them on a list and 
+- With a little javascript the tiles can add up the price
+ of the items selected. 
 - Let me know what you come up with.
 ```
 
