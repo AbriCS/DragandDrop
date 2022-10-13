@@ -1,4 +1,24 @@
 # 📝 Drag and Drop
+
+### Table of Contents
+* [Description](#description)<br>
+* [Moving Tiles](#📖-how-to-use)
+<br>
+                1. [Moving Tiles](#moving-tiles-in-the-drag-and-drop-app)
+                <br>
+                2. [How this app might be used](#how-this-app-might-be-used)
+                
+<br>
+
+* [Screenshot](#📷-screenshots)<br>
+
+
+* [Short Film](#🎞️-short-film)<br>
+
+* [My Portfolio](#🔗-links)<br>
+* [Author](#author)
+* [Acknowledgements](#acknowledgements)<br>
+
 ## Description
  This is an application which will allow you to sort boxes or items into a list or move then across to another list.
 
@@ -18,32 +38,28 @@
 ```
 - To create a sortable shopping list
 - Create a game where the player sorts the answers in order of highest to lowest, biggest to smallest, oldest to youngest etc
-- To select items and place them on a list and with a little javascrip adds up the price of the items selected. 
+- To select items and place them on a list and with a little javascript adds up the price of the items selected. 
 - Let me know what you come up with.
 ```
-
-
 
 ## 📷 Screenshots
 
 Here is a screenshot of the Sortable tiles
 
 ![Drag and Drop app](./Assets/images/DaD.png)
-                                                                                             
-
+                                            
 ##  🎞️ Short film
-![Sorting in Action](./Assets/images/DragandDrop.gif)
-```
----
 
 This short film demonstrates the application in action.
 
-```
+![Sorting in Action](./Assets/images/DragandDrop.gif)
+
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/Note-Taker)
+[![portfolio](https://img.shields.io/badge/my_Student_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AbriCS)
 
 ### Author
-- [@AbriCS](https://www.github.com/AbriCS)
+- [@iteration50.io](https://www.iteration50.io/)
+
 
 ### Acknowledgements
 
