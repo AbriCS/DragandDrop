@@ -3,15 +3,13 @@
 ### Table of Contents
 * [Description](#description)<br>
 * [Moving Tiles](#📖-how-to-use)
-<br> 1. [Moving Tiles](#moving-tiles-in-the-drag-and-drop-app)<br> 2. [How this app might be used](#how-this-app-might-be-used)<br>
+    <br> 1. [Moving Tiles](#moving-tiles-in-the-drag-and-drop-app)<br> 2. [How this app might be used](#how-this-app-might-be-used)<br>
 
-* [Screenshot](#📷-screenshots)<br>
-
-* [Short Film](#🎞️-short-film)<br>
-
-* [My Portfolio](#🔗-links)<br>
+* [Screenshot](#📷-screenshots)
+* [Short Film](#🎞️-short-film)
+* [My Portfolio](#🔗-links)
 * [Author](#author)
-* [Acknowledgements](#acknowledgements)<br>
+* [Acknowledgements](#acknowledgements)
 
 ## Description
  This is an application which will allow you to sort boxes or items into a list or move then across to another list.
